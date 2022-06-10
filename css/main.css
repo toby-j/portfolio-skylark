@@ -849,22 +849,19 @@ hr {|F
 }
 
 /*----------- Home -----------*/
-#home {
-  background-color: #8CB5BF;
-}
 
 
 .home-area {
-  background-color: #111;
+  background-color: #8CB5BF;
   background-position: center center;
   height: 100vh;
   height: calc(var(--vh, 1vh) * 100);
   overflow: hidden;
 }
 
-.home-area:before {
-  background-color: rgba(0, 0, 0, 0.4);
-}
+/*.home-area:before {*/
+/*  background-color: rgba(0, 0, 0, 0.4);*/
+/*}*/
 
 .home-area .fixed-wrapper {
   margin: 0 50px;
@@ -1527,10 +1524,6 @@ hr {|F
 
 .video-section .content-part .video-description:last-child {
   margin-bottom: 0;
-}
-
-.video-section .video-part .embed-responsive-item {
-  background-image: url(../img/video.jpg);
 }
 
 .video-section .video-part .embed-responsive-item:before {
