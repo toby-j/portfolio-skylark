@@ -19,7 +19,7 @@
  */
 /*----------- Bootstrap Template -----------*/
 :root {
-  --custom: #8CB5BF;
+  --custom: #7AD1E5;
 }
 
 .table-custom,
@@ -38,8 +38,8 @@
 }
 
 .btn-custom {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -56,8 +56,8 @@
 
 .btn-custom.disabled,
 .btn-custom:disabled {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -76,13 +76,13 @@
 }
 
 .btn-outline-custom {
-  border-color: #8CB5BF;
-  color: #8CB5BF;
+  border-color: #7AD1E5;
+  color: #7AD1E5;
 }
 
 .btn-outline-custom:hover {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -94,14 +94,14 @@
 .btn-outline-custom.disabled,
 .btn-outline-custom:disabled {
   background-color: transparent;
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 .btn-outline-custom:not(:disabled):not(.disabled):active,
 .btn-outline-custom:not(:disabled):not(.disabled).active,
 .show>.btn-outline-custom.dropdown-toggle {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -112,7 +112,7 @@
 }
 
 .badge-custom {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
   color: #fff;
 }
 
@@ -160,7 +160,7 @@ a.badge-custom.focus {
 }
 
 .bg-custom {
-  background-color: #8CB5BF !important;
+  background-color: #7AD1E5 !important;
 }
 
 a.bg-custom:hover,
@@ -171,11 +171,11 @@ button.bg-custom:focus {
 }
 
 .border-custom {
-  border-color: #8CB5BF !important;
+  border-color: #7AD1E5 !important;
 }
 
 .text-custom {
-  color: #8CB5BF !important;
+  color: #7AD1E5 !important;
 }
 
 a.text-custom:hover,
@@ -185,17 +185,17 @@ a.text-custom:focus {
 
 /*----------- Globals -----------*/
 ::-moz-selection {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
   color: #fff;
 }
 
 ::selection {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
   color: #fff;
 }
 
 a:not(.btn) {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 a:not(.btn):hover,
@@ -204,16 +204,16 @@ a:not(.btn):focus {
 }
 
 .color-scheme {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 .background-scheme {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
 }
 
 .btn.button-scheme {
-  background-color: #8CB5BF !important;
-  border: 1px solid #8CB5BF !important;
+  background-color: #7AD1E5 !important;
+  border: 1px solid #7AD1E5 !important;
 }
 
 .btn.button-scheme:focus {
@@ -224,7 +224,7 @@ a:not(.btn):focus {
 
 .btn.button-outline {
   background-color: transparent !important;
-  border: 1px solid #8CB5BF !important;
+  border: 1px solid #7AD1E5 !important;
   color: #222 !important;
 }
 
@@ -235,56 +235,56 @@ a:not(.btn):focus {
 }
 
 .lightbox-wrapper .lightbox-content .section-heading.page-heading>.animated-bar {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
 }
 
 /*----------  About ligthbox  ----------*/
 /* About: Info */
 .info-section .info-content .content-subtitle {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 .info-section .info-content .content-follow li a:hover,
 .info-section .info-content .content-follow li a:focus {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 /* About: Services */
 .services-section .single-service:hover {
-  border-bottom-color: #8CB5BF;
+  border-bottom-color: #7AD1E5;
 }
 
 .services-section .single-service .service-icon {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 /* About: Testimonials */
 .testimonials-section .single-review .review-icon {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 /* About: Pricing */
 .pricing-section .single-plan .plan-icon {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 /*----------- Resume lightbox -----------*/
 /* Resume: Resume */
 .resume-section .resume-item {
-  border-left-color: #8CB5BF;
+  border-left-color: #7AD1E5;
 }
 
 .resume-section .resume-item .item-arrow:before {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
 }
 
 .resume-section .resume-item .item-arrow:after {
-  border-left-color: #8CB5BF;
+  border-left-color: #7AD1E5;
 }
 
 /* Resume: Skills */
 .skills-section .single-skill .skill-progress .progress-bar {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
 }
 
 /*----------- Portfolio lightbox -----------*/
@@ -300,13 +300,13 @@ a:not(.btn):focus {
 }
 
 .portfolio-section .portfolio-grid .portfolio-wrapper .item-content .content-more {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 /*----------  Blog lightbox  ----------*/
 /* Blog: Blog */
 .blog-section .single-post .post-img .content-date {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
 }
 
 /*----------  Contact Lightbox  ----------*/
@@ -316,5 +316,5 @@ a:not(.btn):focus {
 }
 
 .contact-section .contact-info .list-info .info-icon i {
-  color: #8CB5BF;
+  color: #7AD1E5;
 }

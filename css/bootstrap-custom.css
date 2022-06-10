@@ -20,7 +20,7 @@
   --breakpoint-sm: 576px;
   --breakpoint-xl: 1200px;
   --breakpoint-xs: 0;
-  --cyan: #8CB5BF;
+  --cyan: #7AD1E5;
   --danger: #dc3545;
   --dark: #343a40;
   --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -29,7 +29,7 @@
   --gray-dark: #343a40;
   --green: #28a745;
   --indigo: #6610f2;
-  --info: #8CB5BF;
+  --info: #7AD1E5;
   --light: #f8f9fa;
   --orange: #fd7e14;
   --pink: #e83e8c;
@@ -2853,8 +2853,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-info {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -2871,8 +2871,8 @@ fieldset:disabled a.btn {
 
 .btn-info.disabled,
 .btn-info:disabled {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -3151,13 +3151,13 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-info {
-  border-color: #8CB5BF;
-  color: #8CB5BF;
+  border-color: #7AD1E5;
+  color: #7AD1E5;
 }
 
 .btn-outline-info:hover {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -3169,14 +3169,14 @@ fieldset:disabled a.btn {
 .btn-outline-info.disabled,
 .btn-outline-info:disabled {
   background-color: transparent;
-  color: #8CB5BF;
+  color: #7AD1E5;
 }
 
 .btn-outline-info:not(:disabled):not(.disabled):active,
 .btn-outline-info:not(:disabled):not(.disabled).active,
 .show>.btn-outline-info.dropdown-toggle {
-  background-color: #8CB5BF;
-  border-color: #8CB5BF;
+  background-color: #7AD1E5;
+  border-color: #7AD1E5;
   color: #fff;
 }
 
@@ -5476,7 +5476,7 @@ a.badge-success.focus {
 }
 
 .badge-info {
-  background-color: #8CB5BF;
+  background-color: #7AD1E5;
   color: #fff;
 }
 
@@ -7084,7 +7084,7 @@ button.bg-success:focus {
 }
 
 .bg-info {
-  background-color: #8CB5BF !important;
+  background-color: #7AD1E5 !important;
 }
 
 a.bg-info:hover,
@@ -7199,7 +7199,7 @@ button.bg-dark:focus {
 }
 
 .border-info {
-  border-color: #8CB5BF !important;
+  border-color: #7AD1E5 !important;
 }
 
 .border-warning {
@@ -10973,7 +10973,7 @@ a.text-success:focus {
 }
 
 .text-info {
-  color: #8CB5BF !important;
+  color: #7AD1E5 !important;
 }
 
 a.text-info:hover,
