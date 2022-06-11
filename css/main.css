@@ -987,7 +987,7 @@ hr {|F
     display: none;
   }
   .social-icons {
-    display: block !important;
+    display: none;
   }
 }
 
