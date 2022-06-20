@@ -402,7 +402,7 @@ hr {|F
   height: 2px;
 }
 
-@(max-width: 575.98px) {
+@media (max-width: 575.98px) {
   .lity-close {
     right: 15px;
   }
@@ -629,7 +629,7 @@ hr {|F
   margin-bottom: 17px;
 }
 
-@(max-width: 991.98px) {
+@media (max-width: 991.98px) {
   .lightbox-wrapper .lightbox-content .single-section:not(:last-child) {
     margin-bottom: 100px;
   }
@@ -968,9 +968,6 @@ hr {|F
   z-index: 1;
 }
 
-.block-middle {
-  m
-}
 
 @media (max-width: 991.98px) {
   .home-area .home-name {
@@ -982,10 +979,13 @@ hr {|F
   }
 }
 
-@media (max-width: 1200.00px) {
- .home-area .home-headline {
-  display: none;
- }
+@media (max-height: 900.98px) {
+  .img-fluid {
+    height: 250px;
+  }
+  .home-area .home-headline {
+    margin-top: 10%;
+  }
 }
 
 @media (max-width: 767.98px) {
