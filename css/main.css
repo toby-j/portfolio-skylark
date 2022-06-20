@@ -1049,8 +1049,13 @@ hr {|F
 .info-section .info-content .content-info {
   font-size: 15px;
   margin-bottom: 4px;
-  padding: 29px 0;
+  padding-top: 29px;
+  padding-bottom: 24px;
 }
+
+.linkedin-button{color: #7ad1e5; border-color: #7ad1e5}
+
+.linkedin-button:hover{color: #101010; border-color: #101010}
 
 .info-section .info-content .content-info>.row:last-child .single-info {
   margin-bottom: 0;
