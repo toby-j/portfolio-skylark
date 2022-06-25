@@ -981,7 +981,8 @@ hr {|F
 
 @media (max-height: 900.98px) {
   .img-fluid {
-    height: 250px;
+    max-height : 250px;
+    object-fit: cover;
   }
   .home-area .home-headline {
     margin-top: 10%;
