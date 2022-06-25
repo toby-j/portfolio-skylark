@@ -996,6 +996,9 @@ hr {|F
   .social-icons {
     display: none;
   }
+  .home-area .home-headline {
+    margin-top: 20%;
+  }
 }
 
 @media (max-width: 575.98px) {
