@@ -437,7 +437,7 @@ hr {|F
 }
 
 .lightbox-wrapper {
-  background-color: #101010;
+  background-color: #1e2124;
   position: fixed;
 }
 
@@ -584,7 +584,7 @@ hr {|F
   animation-iteration-count: infinite;
   animation-name: barAnimation;
   animation-timing-function: linear;
-  background-color: #101010;
+  background-color: #1e2124;
   content: '';
   height: 100%;
   position: absolute;
@@ -1059,7 +1059,7 @@ hr {|F
 
 .linkedin-button{color: #7ad1e5; border-color: #7ad1e5}
 
-.linkedin-button:hover{color: #101010; border-color: #101010}
+.linkedin-button:hover{color: #1e2124; border-color: #1e2124}
 
 .info-section .info-content .content-info>.row:last-child .single-info {
   margin-bottom: 0;
@@ -1285,6 +1285,10 @@ hr {|F
   line-height: 100%;
 }
 
+.testimonials-section .single-review .review-client .client-details span {
+  display: block;
+}
+
 .testimonials-section .single-review .review-client .client-name {
   color: #efefef;
   font-size: 15px;
@@ -1297,6 +1301,15 @@ hr {|F
   display: inline-block;
   font-size: 14px;
   font-weight: 400;
+  margin-bottom: 7px;
+}
+
+.testimonials-section .single-review .review-client .client-date {
+  color: #888;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 7px;
 }
 
 .testimonials-section .single-review .review-icon {
@@ -1328,6 +1341,10 @@ hr {|F
   }
 
   .testimonials-section .single-review .review-client .client-role {
+    font-size: 13px;
+  }
+
+  .testimonials-section .single-review .review-client .client-date {
     font-size: 13px;
   }
 
